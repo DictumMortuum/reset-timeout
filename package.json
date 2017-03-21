@@ -1,0 +1,23 @@
+{
+  "name": "reset-timeout",
+  "version": "0.0.1",
+  "description": "Run function once after a refreshable time delay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DictumMortuum/reset-timeout.git"
+  },
+  "keywords": [
+    "setTimeout",
+    "clearTimeout"
+  ],
+  "author": "Dimitris Raviolos <dictummortuum339@gmail.com> (https://github.com/DictumMortuum)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DictumMortuum/reset-timeout/issues"
+  },
+  "homepage": "https://github.com/DictumMortuum/reset-timeout#readme"
+}
