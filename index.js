@@ -1,6 +1,6 @@
 'use strict'
 
-let timer = null
+var timer = null
 
 module.exports = function(callback) {
   clearTimeout(timer)
