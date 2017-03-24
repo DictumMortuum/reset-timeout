@@ -9,3 +9,5 @@ document.onkeypress = timeout(
   () => dispatch(insert(d))
 );
 ```
+
+You can pass the delay in ms as the second argument of the timeout function. If not provided, its default value is 1000.
