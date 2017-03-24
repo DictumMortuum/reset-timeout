@@ -15,7 +15,7 @@
     "clearTimeout"
   ],
   "author": "Dimitris Raviolos <dictummortuum339@gmail.com> (https://github.com/DictumMortuum)",
-  "license": "GPL-3.0",
+  "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/DictumMortuum/reset-timeout/issues"
   },
